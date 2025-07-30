@@ -32,6 +32,7 @@ const portfolioData = {
       ],
     },
   ],
+
   education: [
     {
       degree: 'University of Ilorin',
